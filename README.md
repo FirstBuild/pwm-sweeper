@@ -9,9 +9,9 @@ value over one period.  The variation is linear.
 
 | Macro | Use |
 |-------|------|
-| PWM_PIN | The output pin\* |
+| PWM_PIN | The output pin __\*__ |
 | PWM_LOW | The low value of the duty cycle __\*\*__ |
-| PWM_HIGH | The high value of the duty cycle |
+| PWM_HIGH | The high value of the duty cycle __\*\*__ |
 | PERIOD_SECONDS | The period in seconds, e.g. 10 = 10 seconds |
 
 __\*__ The output pin chosen must be on a pin supported by your board. See the 
