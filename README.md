@@ -4,7 +4,7 @@ between the LOW PWM value and the HIGH PWM value and then back to the LOW
 value over one period.  The variation is linear.
 
 ### Instructions
-- Download the repo and open it in the Arduino IDE.
+- Download the repo and open it in the [Arduino IDE](https://www.arduino.cc/en/Main/Software)
 - Change the macro definitions for your needs
 
 | Macro | Use |
