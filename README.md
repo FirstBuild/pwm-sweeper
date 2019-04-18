@@ -24,4 +24,3 @@ __\*\*__ PWM Value Notes:
 - PWM_LOW must be less than PWM_HIGH
 - 0.0 =   0% duty cycle
 - 1.0 = 100% duty cycle
-
