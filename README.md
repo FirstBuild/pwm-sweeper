@@ -14,10 +14,9 @@ value over one period.  The variation is linear.
 | PWM_HIGH | The high value of the duty cycle |
 | PERIOD_SECONDS | The period in seconds, e.g. 10 = 10 seconds |
 
-\* The output pin chosen must be on supported by your board. See the 
+\* The output pin chosen must be on a pin supported by your board. See the 
 [Arduino analogWrite reference](https://www.arduino.cc/reference/en/language/functions/analog-io/analogwrite/)
 for more info.
-
 \*\* PWM Value Notes:
 - The value must be between 0.0 and 1.0
 - The value must not be negative
