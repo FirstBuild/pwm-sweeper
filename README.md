@@ -10,7 +10,7 @@ value over one period.  The variation is linear.
 | Macro | Use |
 |-------|------|
 | PWM_PIN | The output pin\* |
-| PWM_LOW | The low value of the duty cycle__\*\*__ |
+| PWM_LOW | The low value of the duty cycle __\*\*__ |
 | PWM_HIGH | The high value of the duty cycle |
 | PERIOD_SECONDS | The period in seconds, e.g. 10 = 10 seconds |
 
